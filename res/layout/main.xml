@@ -4,6 +4,11 @@
               android:layout_width="fill_parent"
               android:layout_height="fill_parent"
         >
+    <Button
+            android:layout_width="190dp"
+            android:layout_height="wrap_content"
+            android:text="New Button"
+            android:id="@+id/button" android:layout_gravity="left|center_vertical"/>
     <TextView
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
